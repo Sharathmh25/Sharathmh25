@@ -1,43 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,100:1D9E75&height=200&section=header&text=Sharath%20M%20H&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Engineering%20Student%20%40%20UVCE%2C%20Bengaluru&descSize=16&descAlignY=58&descColor=ccffd8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d0a,30:0a1f16,70:0d3d25,100:1D9E75&height=260&section=header&text=Sharath%20M%20H&fontSize=64&fontColor=ffffff&fontAlignY=40&fontStyle=bold&desc=Backend%20Developer%20%E2%80%A2%20UVCE%20Bengaluru%20%E2%80%A2%20Building%20Systems%20That%20Scale&descSize=15&descAlignY=60&descColor=7effc4&animation=fadeIn" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&multiline=false&width=680&lines=Django+%7C+REST+APIs+%7C+Docker+%7C+PostgreSQL+%7C+AWS;250%2B+LeetCode+Problems+%F0%9F%A7%A0+%7C+Contest+Rating+1600+%F0%9F%8E%AF;Building+scalable+backends+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## ◈ About Me
 
-### 👋 Hey there, I'm Sharath
+<table>
+<tr>
+<td width="52%" valign="top">
 
-- 🎓 Engineering student at **UVCE, Bengaluru**
-- 🔧 Backend Developer passionate about scalable systems
-- 🏗️ Built full-stack apps — **E-Commerce Platform** & **SaaS Application**
-- 🔐 Experienced in REST APIs, auth systems & database design
-- 🧠 Solved **250+ DSA problems** on LeetCode
-- 🏅 **150 Days Badge** · **83-day streak** · **Contest Rating 1600**
-- ⚡ Strong foundations in backend architecture & software engineering
-- 🌱 Always learning — currently exploring **cloud-native** patterns
+```
+╔══════════════════════════════════════╗
+║  🧑‍💻  SHARATH M H                     ║
+║      Backend Developer               ║
+╠══════════════════════════════════════╣
+║  📍  Bengaluru, India                ║
+║  🎓  Engineering @ UVCE              ║
+║  💼  Open to Opportunities           ║
+╠══════════════════════════════════════╣
+║  SKILLS                              ║
+║  ───────────────────────────────     ║
+║  ▸ Scalable REST APIs & Auth         ║
+║  ▸ Database Architecture             ║
+║  ▸ Docker · K8s · AWS Cloud          ║
+║  ▸ Full-Stack  (Django + React)      ║
+╠══════════════════════════════════════╣
+║  SHIPPED                             ║
+║  ───────────────────────────────     ║
+║  ✦ E-Commerce Platform               ║
+║  ✦ TRADING_BOT                      ║
+╠══════════════════════════════════════╣
+║  STATUS                              ║
+║  ───────────────────────────────     ║
+║  🌱 Exploring Cloud-Native patterns  ║
+║  ⚡ 250+ DSA problems on LeetCode    ║
+╚══════════════════════════════════════╝
+```
 
-<br clear="right"/>
+</td>
+<td width="48%" valign="top" align="center">
 
----
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="95%" style="border-radius:12px"/>
 
-## 🌐 Connect with me
-
-<div align="left">
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Sharath%20M%20H)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@UCXXlIZcyMdH-FXU0Vo5-0yQ)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharathmh25@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sharathmh25)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharathmh25)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@UCXXlIZcyMdH-FXU0Vo5-0yQ)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Tech Stack
+## ◈ Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -58,74 +86,104 @@
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **DevOps & Cloud**
 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
-
-**Tools**
-
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## ◈ GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=sharathmh25&theme=dark&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api?username=sharathmh25&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75&text_color=ffffff&show_icons=true&rank_icon=github&custom_title=Sharath's+GitHub+Stats" height="185"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sharathmh25&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0d1117&title_color=1D9E75&text_color=ffffff" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sharathmh25&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=1D9E75&text_color=ffffff&langs_count=8" height="185"/>
+
+</div>
+
+---
+
+## ◈ Contribution Tower — 3D City Skyline
+
+> **Your GitHub commits visualized as a 3D city.** Every repo = a building. Height = contributions.
+
+<div align="center">
+
+[![GitHub Skyline](https://img.shields.io/badge/🏙️_Open_My_3D_Contribution_City-1D9E75?style=for-the-badge)](https://skyline.github.com/sharathmh25/2024)
+
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharathmh25&bg_color=0d1117&color=1D9E75&line=1D9E75&point=7effc4&area=true&area_color=092E20&hide_border=true&custom_title=📊 Contribution Heatmap — Activity Over Time&radius=6" width="95%"/> -->
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharathmh25&theme=github_dark" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharathmh25&theme=github_dark" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharathmh25&theme=github_dark&utcOffset=5.5" height="160"/>
+
+</div>
+
+---
+
+## ◈ Strike Rate — Streak & Consistency
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=sharathmh25&theme=dark&hide_border=true&background=0d1117&ring=1D9E75&fire=ff6b35&currStreakLabel=1D9E75&sideLabels=1D9E75&dates=6b8f7a&stroke=1D9E75&currStreakNum=ffffff&sideNums=ffffff&border_radius=10&custom_title=🔥 Commit Strike Rate" width="65%"/>
+
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=sharathmh25&theme=dark&hide_border=true&background=0d1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" width="49%"/>
+<div align="center">
+
+| Metric | Value |
+|:--|:--|
+| 🔥 **Longest Streak** | 83 Days |
+| 📅 **Active Since** | 2022 |
+| ⚡ **Peak Consistency** | 150 Days Badge |
+| 🎯 **Commit Frequency** | Daily pusher |
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## ◈ LeetCode Arena
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sharathmh25&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sharathmh25?theme=dark&font=Fira+Code&ext=heatmap&border=0&radius=10)](https://leetcode.com/sharathmh25)
 
 </div>
 
----
-
-## 🧩 LeetCode Stats
+<br/>
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sharathmh25?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/sharathmh25)
+| 🏅 Solved | 🔥 Streak | 🎯 Rating | 🏆 Badge |
+|:-:|:-:|:-:|:-:|
+| **250+** | **83 days** | **1600** | **150 Days** |
 
 </div>
 
-> 🏅 **250+ Problems Solved** · 🔥 **83-day streak** · 🎯 **Contest Rating 1600** · 🏆 **150 Days Badge**
 
 ---
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=sharathmh25&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117)
-
-</div>
-
 ---
 
-### ✍️ Dev Quote of the Day
+## ◈ Dev Quote
 
 <div align="center">
 
@@ -138,7 +196,13 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sharathmh25&color=1D9E75&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/sharathmh25?style=for-the-badge&color=1D9E75&labelColor=0d1117&logo=github&label=FOLLOWERS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:092E20&height=100&section=footer" width="100%"/>
+<br/><br/>
+
+*"First, solve the problem. Then, write the code."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,50:0d3d25,100:050d0a&height=130&section=footer" width="100%"/>
 
 </div>
