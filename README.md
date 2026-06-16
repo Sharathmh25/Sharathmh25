@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d0a,30:0a1f16,70:0d3d25,100:1D9E75&height=260&section=header&text=Sharath%20M%20H&fontSize=64&fontColor=ffffff&fontAlignY=40&fontStyle=bold&desc=Backend%20Developer%20%E2%80%A2%20UVCE%20Bengaluru%20%E2%80%A2%20Building%20Systems%20That%20Scale&descSize=15&descAlignY=60&descColor=7effc4&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d0a,30:0a1f16,70:0d3d25,100:1D9E75&height=260&section=header&text=Sharath%20M%20H&fontSize=64&fontColor=ffffff&fontAlignY=40&fontStyle=bold&desc=Backend%20Developer%20%E2%80%A2%20UVCE%20Bengaluru%20%E2%80%A2%20Building%20Systems%20That%20Work&descSize=15&descAlignY=60&descColor=7effc4&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&multiline=false&width=680&lines=Django+%7C+REST+APIs+%7C+Docker+%7C+PostgreSQL+%7C+AWS;250%2B+LeetCode+Problems+%F0%9F%A7%A0+%7C+Contest+Rating+1600+%F0%9F%8E%AF;Building+scalable+backends+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&multiline=false&width=680&lines=Django+%7C+REST+APIs+%7C+PostgreSQL+%7C+MySQL;250%2B+LeetCode+Problems+%F0%9F%A7%A0+%7C+Contest+Rating+1600+%F0%9F%8E%AF;Learning+every+day%2C+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,19 +27,20 @@
 ╠══════════════════════════════════════╣
 ║  SKILLS                              ║
 ║  ───────────────────────────────     ║
-║  ▸ Scalable REST APIs & Auth         ║
-║  ▸ Database Architecture             ║
-║  ▸ Docker · K8s · AWS Cloud          ║
-║  ▸ Full-Stack  (Django + React)      ║
+║  ▸ Django · REST APIs · Auth         ║
+║  ▸ Database Design & Integration     ║
+║  ▸ Email Automation (SMTP)           ║
+║  ▸ Python · HTML · CSS · JS          ║
 ╠══════════════════════════════════════╣
 ║  SHIPPED                             ║
 ║  ───────────────────────────────     ║
+║  ✦ AI Security System                ║
 ║  ✦ E-Commerce Platform               ║
-║  ✦ TRADING_BOT                      ║
+║  ✦ Trading Bot                       ║
 ╠══════════════════════════════════════╣
 ║  STATUS                              ║
 ║  ───────────────────────────────     ║
-║  🌱 Exploring Cloud-Native patterns  ║
+║  🌱 Learning Docker & Deployment     ║
 ║  ⚡ 250+ DSA problems on LeetCode    ║
 ╚══════════════════════════════════════╝
 ```
@@ -73,14 +74,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -89,14 +87,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**DevOps & Cloud**
+**Tools**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -114,17 +110,9 @@
 
 ---
 
-## ◈ Contribution Tower — 3D City Skyline
-
-> **Your GitHub commits visualized as a 3D city.** Every repo = a building. Height = contributions.
+## ◈ Contribution Activity
 
 <div align="center">
-
-[![GitHub Skyline](https://img.shields.io/badge/🏙️_Open_My_3D_Contribution_City-1D9E75?style=for-the-badge)](https://skyline.github.com/sharathmh25/2024)
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharathmh25&bg_color=0d1117&color=1D9E75&line=1D9E75&point=7effc4&area=true&area_color=092E20&hide_border=true&custom_title=📊 Contribution Heatmap — Activity Over Time&radius=6" width="95%"/> -->
-
-<br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharathmh25&theme=github_dark" width="95%"/>
 
@@ -153,7 +141,7 @@
 | Metric | Value |
 |:--|:--|
 | 🔥 **Longest Streak** | 83 Days |
-| 📅 **Active Since** | 2022 |
+| 📅 **Active Since** | 2025 |
 | ⚡ **Peak Consistency** | 150 Days Badge |
 | 🎯 **Commit Frequency** | Daily pusher |
 
@@ -179,8 +167,6 @@
 
 </div>
 
-
----
 ---
 
 ## ◈ Dev Quote
