@@ -161,9 +161,9 @@
 
 <div align="center">
 
-| 🏅 Solved | 🔥 Streak | 🎯 Rating | 🏆 Badge |
+| 🏅 Solved | 🔥 Streak |  🏆 Badge |
 |:-:|:-:|:-:|:-:|
-| **250+** | **83 days** | **1600** | **150 Days** |
+| **250+** | **83 days** |  **150 Days** |
 
 </div>
 
