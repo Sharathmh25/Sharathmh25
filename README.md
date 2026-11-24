@@ -72,9 +72,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Project One](https://github.com/Sharathmh25/project-one) | REST API with auth, pagination and filtering | Django, DRF, MySQL |
-| [Project Two](https://github.com/Sharathmh25/project-two) | Background jobs and scheduled tasks with caching | Django, Celery, Redis |
-| [Project Three](https://github.com/Sharathmh25/project-three) | Systems / networking project in C or C++ | C++, Linux |
+| [Small-app](https://github.com/Sharathmh25/small-app) | REST API with auth, pagination and filtering | Django, DRF, MySQL |
+| [Ledger Flow](working) | Background jobs and scheduled tasks with caching | Django, Celery, Redis |
+| [Hyper-Flow](working) | Systems / networking project in C or C++ | C++, Linux |
 
 > Replace these with your real repositories and descriptions.
 
