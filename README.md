@@ -13,12 +13,12 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently working on **[your current project]**
-- 🌱 I'm currently learning **[what you're learning next]**
+- 🔭 I'm currently working on **[small-app]**
+- 🌱 I'm currently learning **[Docker,Aws,Ci/Cd]**
 - ⚙️ I build backend systems with **Django, Django REST Framework, Celery and Redis**
 - 🧠 Strong foundation in **Operating Systems, Computer Networks and Computer Organization & Architecture**
 - 💬 Ask me about **REST APIs, async task queues, caching, and Linux**
-- 👯 Looking to collaborate on **[type of projects]**
+- 👯 Looking to collaborate on **[IOT,Software]**
 
 ---
 
